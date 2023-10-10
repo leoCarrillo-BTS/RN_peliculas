@@ -8,9 +8,9 @@ https://api.themoviedb.org/3/movie
 
 [Video Here](https://drive.google.com/file/d/136ELS5fZzNV23Mf0iR3nyrsYYO3xA57R/view?usp=drive_link)
 
-<img width="469" alt="Screenshot 2023-10-10 at 14 00 48" src="https://github.com/leoCarrillo-BTS/RN_peliculas/assets/60411044/27be401a-8682-4ef6-87a6-89cfbe595e9e">
+<img width="469" alt="Screenshot 2023-10-10 at 14 00 48" src="https://github.com/leoCarrillo-BTS/RN_peliculas/assets/60411044/680a0693-1abf-4f42-8b1e-debc5874ead5">
 
-<img width="535" alt="Screenshot 2023-10-10 at 14 01 41" src="https://github.com/leoCarrillo-BTS/RN_peliculas/assets/60411044/ee8a8859-5511-427a-a6f7-c0637f2c13ae">
+<img width="535" alt="Screenshot 2023-10-10 at 14 01 41" src="https://github.com/leoCarrillo-BTS/RN_peliculas/assets/60411044/458b55ce-788a-4f94-b478-ec4aba1dcfe0">
 
 ---
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
