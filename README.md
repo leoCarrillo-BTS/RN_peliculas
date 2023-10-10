@@ -1,3 +1,18 @@
+
+App from the React Native course 
+
+Displays a groups of movies and their detailed info divided in various categories (popular, best, coming soon).
+All data is fetched using the API from https://www.themoviedb.org
+
+https://api.themoviedb.org/3/movie
+
+[Video Here](https://drive.google.com/file/d/136ELS5fZzNV23Mf0iR3nyrsYYO3xA57R/view?usp=drive_link)
+
+<img width="469" alt="Screenshot 2023-10-10 at 14 00 48" src="https://github.com/leoCarrillo-BTS/RN_peliculas/assets/60411044/27be401a-8682-4ef6-87a6-89cfbe595e9e">
+
+<img width="535" alt="Screenshot 2023-10-10 at 14 01 41" src="https://github.com/leoCarrillo-BTS/RN_peliculas/assets/60411044/ee8a8859-5511-427a-a6f7-c0637f2c13ae">
+
+---
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
